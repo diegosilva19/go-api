@@ -1,0 +1,8 @@
+*.exex
+*.dll
+*.so
+*.dylib
+
+*.test
+*.out
+db/
